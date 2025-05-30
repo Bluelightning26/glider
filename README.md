@@ -1,7 +1,7 @@
 # glider
 ## A Compressed Air Glider
 
-A WIP glider being built to see if it can fly farther than a given rocket at the same PSI.
+A WIP glider being built to see if it can fly farther than a given rocket at the same PSI. The wings/winglets will be laser cut to shape.
 
 ![Hackatime Badge](https://hackatime-badge.hackclub.com/U0824G9PTFE/Glider/?label=Time%20In%20OnShape)
 

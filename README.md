@@ -13,6 +13,7 @@ A WIP glider being built to see if it can fly farther than a given rocket at the
 
 ## BOM
 | Materials |
+| -------- |
 | Body/Chasis Material |
 | Wing Material |
 | Rubber Endcap |

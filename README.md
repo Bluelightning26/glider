@@ -12,8 +12,13 @@ A WIP glider being built to see if it can fly farther than a given rocket at the
 ![Onshape Side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b19c6dd1ad28662e1c7ccc3b8166d80ffb3e2c04_screenshot_2025-05-28_at_7.09.10___pm.png)
 
 ## BOM
-| Material |
-| -------- |
+| Materials |
+| Body/Chasis Material |
+| Wing Material |
 | Rubber Endcap |
+| Electrical Tape |
+| Rubber Bands |
+| Masking Tape (Temporary) |
+| Popsicle Stick (Temporary) |
 | Y |
 | Z |

@@ -4,18 +4,19 @@ The
 
 
 ---
-### * June 10th *
+### June 10th
 - More retroactive journaling using notes/images from before
 
 ---
 ### * June 9th *
 
-*Hmmm...* I already have a decent glider, why not make it powered with a motor!
+***Hmmm...* I already have a decent glider, why not make it powered with a motor!**
+
+This is the turning point in this project that makes this on theme for Highway. No longer am I trying to optimize the glider for a launcher, now it is being transformed into more like a simple rc airplane with motors!
 
 Ideas:
 
 - Powered motors and propellors on wings by a remote controller  
-
 
 - 
 - Loads (> 1 hour) of journalling for this repository, all journals from this day forward will be done the day of/ day following! This project was initially not going to be submitted for Highway, as the basic idea was a simple engineering project, but I want to try to convert this into a motorized glider! 
